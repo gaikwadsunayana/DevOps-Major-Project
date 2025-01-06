@@ -1,1 +1,1 @@
-# DevOps-Major-Project
+# Devops-Major-Project
